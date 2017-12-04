@@ -20,7 +20,6 @@ public class AsposeWordFill {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         System.out.println("Start...");
 
         //第一步 加载授权文件license.xml
